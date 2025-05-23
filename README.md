@@ -1,2 +1,2 @@
-# Faitedd.github.io
+# faitedd.github.io
 Website
